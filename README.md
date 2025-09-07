@@ -1,7 +1,7 @@
 # AI Story Book Generator
 
 ## 🎥 YouTube Tutorial
-📺 **Watch the full tutorial**: [From Idea to Production - Building an AI-Powered Web App](https://www.youtube.com/watch?v=I8tO0aGgvzg)
+My first video tutorial 📺 **Watch the full tutorial**: [From Idea to Production - Building an AI-Powered Web App](https://www.youtube.com/watch?v=I8tO0aGgvzg)
 
 ## 📖 Project Overview
 
